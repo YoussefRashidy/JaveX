@@ -1,5 +1,7 @@
 # JavaLin / JaveX
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Java N-dimensional array library with a target architecture designed for performance evolution: scalar -> SIMD -> native/GPU backends.
 
 This repository documents and incrementally implements a two-axis design:
@@ -144,5 +146,4 @@ Contributions are welcome, especially in:
 
 ## License
 
-No license file was detected in the current workspace snapshot.
-Add a `LICENSE` file before external distribution.
+This project is licensed under the MIT License. See `LICENSE` in the repository root for details.
